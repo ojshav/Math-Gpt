@@ -73,4 +73,7 @@ The application combines these tools using LangChain's agent framework to:
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
+![image](https://github.com/user-attachments/assets/d8c19906-bab3-4073-b713-dcc0e705d0fe)
+![image](https://github.com/user-attachments/assets/6cabc4eb-a1f1-46c7-a94f-42b681aab74e)
+
 
